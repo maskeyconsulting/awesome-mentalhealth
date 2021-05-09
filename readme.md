@@ -37,11 +37,11 @@
 ## Resources
 
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog) - A great talk on what Anxiety is and how to deal with it.
-- [Change your Mind Change your Brain] (https://youtu.be/L_30JzRGDHI) - Matthieu Ricard's talk on how happiness can be practiced.
-- [The Art of happiness] (https://youtu.be/t46j3HyKzO0) The Art of happiness 
+- [Change your Mind Change your Brain](https://youtu.be/L_30JzRGDHI) - Matthieu Ricard's talk on how happiness can be practiced.
+- [The Art of happiness](https://youtu.be/t46j3HyKzO0) The Art of happiness 
 
 ## Meditation
 
 - [Loving kindness]
-	- Compassion Meditation (https://youtu.be/9-XY3uKO63I)
-	- Meditation on Compassion (https://youtu.be/04OWroNTf1c)
+	- Compassion Meditation(https://youtu.be/9-XY3uKO63I)
+	- Meditation on Compassion(https://youtu.be/04OWroNTf1c)
