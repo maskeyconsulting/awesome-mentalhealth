@@ -42,6 +42,6 @@
 
 ## Meditation
 
-- [Loving kindness]
+- Loving kindness
 	- [Compassion Meditation](https://youtu.be/9-XY3uKO63I)
 	- [Meditation on Compassion](https://youtu.be/04OWroNTf1c)
