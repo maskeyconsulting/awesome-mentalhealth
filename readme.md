@@ -110,6 +110,7 @@
 	- [Dick Proenneke - Alone in the wilderness](https://youtu.be/cTHLpA4267Q)
 	- [The high pass - ABC trek](https://youtu.be/ZQy8rDxEdRU)
 	- [Hiking in Chile](https://youtu.be/sCTY0Ll_KeY)
+	- [Tour Du Mont Blanc loop hike](https://youtu.be/3595IuY0kgE)
 
 
 	
