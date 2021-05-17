@@ -35,6 +35,7 @@
 ## On Fear
 - [JD Krishnamurthi](https://youtu.be/BFWBaBdH2qw)
 - [Sadhguru](https://youtu.be/K7hYf0yIK5w)
+- [Tolle on Fear](https://youtu.be/LiEU84nHEcY)
 
 
 ## Meditation
