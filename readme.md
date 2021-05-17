@@ -22,6 +22,9 @@
 - [Others](#Videos)
 - [On Fear](#Fear)
 
+## About Anxiety
+- [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog)
+
 ## Resources
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog) - A great talk on what Anxiety is and how to deal with it.
 - [Change your Mind Change your Brain](https://youtu.be/L_30JzRGDHI) - Matthieu Ricard's talk on how happiness can be practiced.
@@ -70,9 +73,7 @@
 - [Kapal bharathi](https://youtu.be/d6d7_oJGzKQ)
 
 
-## Other videos
-- About Anxiety
-	- [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog)
+## Videos for reducing stress
 	
 - Stress Reducer Graham Norton Videos 
 	- [Keving Hart on Graham Norton](https://youtu.be/l78Nse_cQM8)
@@ -96,8 +97,19 @@
 	- [Be the Change](https://youtu.be/qBHt02IocLI)
 	- [Nature fo the mind](https://youtu.be/gO7RQi55asY) 	
 
+- Travel videos
+	- [Ramen in Tokyo](https://www.youtube.com/watch?v=Hf0b_-hVBS4)
+	- [South Korea street food](https://youtu.be/dbofhUfQ1p4)
+	- [Amtrak travel from NYC to LA](https://youtu.be/f79ksk3ggDo)	
+	- [Everest Base Camp](https://youtu.be/8_hWKqIqtA8)
+	- [Driving in Switzerland](https://youtu.be/b-WViLMs_4c)
+	- [Year in the wilderness](https://youtu.be/HwPoLOZkFyE)
+	- [Dick Proenneke - Alone in the wilderness](https://youtu.be/cTHLpA4267Q)
+	- [The high pass - ABC trek](https://youtu.be/ZQy8rDxEdRU)
+	- [Hiking in Chile](https://youtu.be/sCTY0Ll_KeY)
+
 ## Articles
 - [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings)
 - [reddit Anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq)
-- [Dalai Lama Ski Trip] (https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html)
+- [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html)
 	
