@@ -18,7 +18,7 @@
 - [Articles](#Articles)
 - [Others](#Videos)
 - [On Fear](#Fear)
-- [Videos for reducing stress](#Videos for reducing stress)
+- [Videos for reducing stress](#Videos-for-reducing-stress)
 
 ## About Anxiety
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog)
@@ -83,7 +83,7 @@
 	- [Jamie Dornan's walk](https://youtu.be/aqUuTLh6pHk)
 	- [Jack Whitehall's Poop story](https://youtu.be/UIL9CiUDHp0)
 	- [Greg Davies' Ridiculuous story](https://youtu.be/yuXGpUR7fXA) 	
-	- [Bill Murray on Graham Norton]https://youtu.be/yuXGpUR7fXA)
+	- [Bill Murray on Graham Norton](https://youtu.be/yuXGpUR7fXA)
 
 - Hollywood Roundtable
 	- [Actors Roundtable](https://youtu.be/ibPkLdbG4VU)
