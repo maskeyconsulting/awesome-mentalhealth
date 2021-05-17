@@ -3,32 +3,33 @@
 > A curated list of awesome mental health resources >
 > <br>
 
-<div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
-</div>
 
 <br>
 
 <br>
 
 ## Contents
+- [About Anxiey](#About Anxiety)
 - [Resources](#resources)
 - [Meditation](#Meditation)
 - [Yoga](#Yoga)
 - [Books](#Books)
 - [Apps](#Apps)
-- [Podcast](#Podcasts)
 - [Articles](#Articles)
 - [Others](#Videos)
 - [On Fear](#Fear)
+- [Videos for reducing stress](#Videos for reducing stress)
 
 ## About Anxiety
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog)
+- [reddit Anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq)
 
 ## Resources
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog) - A great talk on what Anxiety is and how to deal with it.
 - [Change your Mind Change your Brain](https://youtu.be/L_30JzRGDHI) - Matthieu Ricard's talk on how happiness can be practiced.
 - [The Art of happiness](https://youtu.be/t46j3HyKzO0) The Art of happiness audio book
+- [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings)
+- [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html)
 
 
 ## On Fear
@@ -37,7 +38,6 @@
 
 
 ## Meditation
-
 - Loving kindness
 	- [Compassion Meditation](https://youtu.be/9-XY3uKO63I)
 	- [Meditation on Compassion](https://youtu.be/04OWroNTf1c)
@@ -49,11 +49,15 @@
 	- [Transcedental Meditation](https://youtu.be/rNfenCYWGRQ) 
 	- [15-Minute Anxiety Meditation](https://www.amazon.com/gp/video/detail/B0861BVHFX/ref=atv_dp_share_cu_r)
 	- [Imagery mediation](https://youtu.be/KYJdekjiAog?t=3957)
+	
+- Yog nidra
+	- [Yoga Nidra for Sleep](https://www.doyogawithme.com/content/yoga-nidra-sleep)
+	- [UCLA Recreation](https://podcasts.apple.com/us/podcast/deep-relaxation-and-guided-meditation-yoga-nidra/id434139276) 	
 
 ## Apps
-
 - [HeadSpace](https://www.headspace.com/)
 - [Calm](https://www.calm.com/breathe) 
+- [Sadhguru](https://isha.sadhguru.org/us/en/sadhguru-app)
 
 ## Books
 - [Power of Now](https://youtu.be/NtL2hb-wCMo) 
@@ -74,7 +78,6 @@
 
 
 ## Videos for reducing stress
-	
 - Stress Reducer Graham Norton Videos 
 	- [Keving Hart on Graham Norton](https://youtu.be/l78Nse_cQM8)
 	- [Jamie Dornan's walk](https://youtu.be/aqUuTLh6pHk)
@@ -108,8 +111,5 @@
 	- [The high pass - ABC trek](https://youtu.be/ZQy8rDxEdRU)
 	- [Hiking in Chile](https://youtu.be/sCTY0Ll_KeY)
 
-## Articles
-- [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings)
-- [reddit Anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq)
-- [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html)
+
 	
