@@ -21,15 +21,24 @@
 - [Videos for reducing stress](#Videos-for-reducing-stress)
 
 ## About Anxiety
-- [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog)
-- [reddit anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq)
+- [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog) - A great talk on what Anxiety is and how to deal with it.
+- [reddit anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq) - Awesome faqs consolidated by r/anxiety sub reddit group.
 
 ## Resources
-- [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog) - A great talk on what Anxiety is and how to deal with it.
 - [Change your Mind Change your Brain](https://youtu.be/L_30JzRGDHI) - Matthieu Ricard's talk on how happiness can be practiced.
 - [The Art of happiness](https://youtu.be/t46j3HyKzO0) The Art of happiness audio book
 - [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings) - Good interview with Tara Brach and her book that delves into mindfulness and the RAIN mindfullness tool. 
 - [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html) - The last paragraph here on what the mening of life is.
+
+Here is the last paragraph.
+She spoke with complete seriousness. “What is the meaning of life?”
+
+In my entire week with the Dalai Lama, every conceivable question had been asked—except this one. People had been afraid to ask the one—the really big—question. There was a brief, stunned silence at the table.
+
+The Dalai Lama answered immediately. “The meaning of life is happiness.” He raised his finger, leaning forward, focusing on her as if she were the only person in the world. “Hard question is not, ‘What is meaning of life?’ That is easy question to answer! No, hard question is what make happiness. Money? Big house? Accomplishment? Friends? Or …” He paused. “Compassion and good heart? This is question all human beings must try to answer: What make true happiness?” He gave this last question a peculiar emphasis and then fell silent, gazing at her with a smile.
+
+“Thank you,” she said, “thank you.” She got up and finished stacking the dirty dishes and cups, and took them away.
+
 
 
 ## On Fear
