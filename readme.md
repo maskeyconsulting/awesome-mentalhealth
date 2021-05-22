@@ -22,14 +22,14 @@
 
 ## About Anxiety
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog)
-- [reddit Anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq)
+- [reddit anxiety faqs](https://www.reddit.com/r/Anxiety/wiki/faq)
 
 ## Resources
 - [How Your Brain Can Turn Anxiety into Calmness](https://youtu.be/KYJdekjiAog) - A great talk on what Anxiety is and how to deal with it.
 - [Change your Mind Change your Brain](https://youtu.be/L_30JzRGDHI) - Matthieu Ricard's talk on how happiness can be practiced.
 - [The Art of happiness](https://youtu.be/t46j3HyKzO0) The Art of happiness audio book
-- [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings)
-- [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html)
+- [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings) - Good interview with Tara Brach and her book that delves into mindfulness and the RAIN mindfullness tool. 
+- [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html) - The last paragraph here on what the mening of life is.
 
 
 ## On Fear
