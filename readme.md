@@ -30,23 +30,19 @@
 - [npr mindfulness](https://www.npr.org/2020/02/03/802347757/a-conversation-with-tara-brach-mindfulness-tools-for-big-feelings) - Good interview with Tara Brach and her book that delves into mindfulness and the RAIN mindfullness tool. 
 - [Dalai Lama Ski Trip](https://slate.com/human-interest/2014/02/dalai-lama-at-a-santa-fe-ski-resort-tells-waitress-the-meaning-of-life.html) - The last paragraph here on what the mening of life is.
 
----------------------------
-Here is the last paragraph.
----------------------------
-She spoke with complete seriousness. “What is the meaning of life?”
-
-In my entire week with the Dalai Lama, every conceivable question had been asked—except this one. People had been afraid to ask the one—the really big—question. There was a brief, stunned silence at the table.
-
-The Dalai Lama answered immediately. “The meaning of life is happiness.” He raised his finger, leaning forward, focusing on her as if she were the only person in the world. “Hard question is not, ‘What is meaning of life?’ That is easy question to answer! No, hard question is what make happiness. Money? Big house? Accomplishment? Friends? Or …” He paused. “Compassion and good heart? This is question all human beings must try to answer: What make true happiness?” He gave this last question a peculiar emphasis and then fell silent, gazing at her with a smile.
-
-“Thank you,” she said, “thank you.” She got up and finished stacking the dirty dishes and cups, and took them away.
----------------------------
+> Here is the last paragraph.
+> She spoke with complete seriousness. “What is the meaning of life?”
+> In my entire week with the Dalai Lama, every conceivable question had been asked—except this one. People had been afraid to ask the one—the really big—question. > There was a brief, stunned silence at the table.
+> The Dalai Lama answered immediately. “The meaning of life is happiness.” He raised his finger, leaning forward, focusing on her as if she were the only person in > the world. “Hard question is not, ‘What is meaning of life?’ That is easy question to answer! No, hard question is what make happiness. Money? Big house? 
+> Accomplishment? Friends? Or …” He paused. “Compassion and good heart? This is question all human beings must try to answer: What make true happiness?” He gave this last question a peculiar emphasis and then fell silent, gazing at her with a smile.
+> “Thank you,” she said, “thank you.” She got up and finished stacking the dirty dishes and cups, and took them away.
 
 
 ## On Fear
 - [JD Krishnamurthi](https://youtu.be/BFWBaBdH2qw) - JDK's deep contemplation on fear. 
 - [Sadhguru](https://youtu.be/K7hYf0yIK5w) - Sadhguru deals with a question from the audience on how to deal with his fears and anxiety.
-- [Tolle on Fear](https://youtu.be/LiEU84nHEcY) - "In this video, Eckhart answers how we transcend any fearful thoughts we might have about losing our job, money, getting sick, or the fear of something happening to a loved one. He also shows us how we can  turn our attention away from any fearful thinking and focus on the inner body and deepening into the present moment."
+- [Tolle on Fear](https://youtu.be/LiEU84nHEcY) - 
+> "In this video, Eckhart answers how we transcend any fearful thoughts we might have about losing our job, money, getting sick, or the fear of something happening to a loved one. He also shows us how we can  turn our attention away from any fearful thinking and focus on the inner body and deepening into the present moment."
 
 
 ## Meditation
@@ -82,7 +78,7 @@ The Dalai Lama answered immediately. “The meaning of life is happiness.” He 
 
 ## Claire Weekes - 
 -------------------
-"She is considered by some as the Pioneer of modern Anxiety treatment via Cognitive Therapy. She continues to be noted for her books on dealing with anxiety disorders. Many of today's anxiety self-help books continue to cite her work."-- From Wikipedia
+> "She is considered by some as the Pioneer of modern Anxiety treatment via Cognitive Therapy. She continues to be noted for her books on dealing with anxiety disorders. Many of today's anxiety self-help books continue to cite her work."-- From Wikipedia
 --------------------
 
 - [Pass through Panic](https://youtu.be/H1Bhh4Bh7vQ)
