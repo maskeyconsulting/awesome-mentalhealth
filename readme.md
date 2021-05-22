@@ -73,8 +73,7 @@
 - [Art of Happiness](https://youtu.be/eXVwxbHbrWo) 
 - [Subtle Art of Not Giving a F*ck](https://youtu.be/vvgD09ts63g)
 - [The Tibetan Book of Living and Dead](https://youtu.be/0GTh5L44HF4) - 
-- His description of how the idea of the cycle of rebirth helps us understand how important karma is and how we may have infinite time in our hands to get better at things.
-
+> He describes the cycle of rebirth and how important karma is. And that we eventually end up paying for it all. 
 - [How to Stop Worrying and Start Living](https://youtu.be/cS3vurK_NbQ) - One of the first resources I found on youtube when I was going through crippling anxiety a long time back. What I learned was that anxiety is much more common that I thought. It is hard to accept, but may be it is normal.
 
 ## Claire Weekes - 
