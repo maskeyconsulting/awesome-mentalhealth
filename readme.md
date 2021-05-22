@@ -9,7 +9,7 @@
 <br>
 
 ## Contents
-- [About Anxiey](#About-Anxiety)
+- [About Anxiey](#About Anxiety)
 - [Resources](#resources)
 - [Meditation](#Meditation)
 - [Yoga](#Yoga)
@@ -59,7 +59,7 @@
 	- [15-Minute Anxiety Meditation](https://www.amazon.com/gp/video/detail/B0861BVHFX/ref=atv_dp_share_cu_r)
 	- [Imagery mediation](https://youtu.be/KYJdekjiAog?t=3957)
 	
-- Yog nidra videos helping you to relax 
+- Yog nidra videos helping you to relax and sleep
 	- [Yoga Nidra for Sleep](https://www.doyogawithme.com/content/yoga-nidra-sleep)
 	- [UCLA Recreation](https://podcasts.apple.com/us/podcast/deep-relaxation-and-guided-meditation-yoga-nidra/id434139276) 	
 
@@ -83,11 +83,11 @@
 - [An encouraging talk before bed](https://youtu.be/H1Bhh4Bh7vQ)
 - [Hope and Help](https://youtu.be/9brXNbcLOaY)
 
-## Yoga -- Multiple studies suggest that doing exercise boosts good mental health and reduces anxiety
+## Yoga -
 - [Lengthen and Strengthen](https://www.doyogawithme.com/content/strengthen-and-lengthen) -- Easy 30 minute yoga.
 - [Rise and Shine](https://www.doyogawithme.com/content/rise-and-shine) -- Advanced and fast paced 30 minute yoga video
 - [Kapal bharathi](https://youtu.be/d6d7_oJGzKQ) -- I have found that light Kapal bharathi breathing exercise in the morning helps me keep focused throughout the day. I have heard that it is recommended that people with acid reflux and other conditions do this exercise lightly.
-
+- [Upa Yoga](https://youtu.be/QjGF2MLdIz8)
 
 ## Videos for reducing stress
 - Stress Reducer Graham Norton Videos. 
