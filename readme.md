@@ -9,7 +9,7 @@
 <br>
 
 ## Contents
-- [About Anxiey](#About Anxiety)
+- [About Anxiey](#About-Anxiety)
 - [Resources](#resources)
 - [Meditation](#Meditation)
 - [Yoga](#Yoga)
