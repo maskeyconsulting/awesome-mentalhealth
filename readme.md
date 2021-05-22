@@ -77,10 +77,7 @@
 - [How to Stop Worrying and Start Living](https://youtu.be/cS3vurK_NbQ) - One of the first resources I found on youtube when I was going through crippling anxiety a long time back. What I learned was that anxiety is much more common that I thought. It is hard to accept, but may be it is normal.
 
 ## Claire Weekes - 
--------------------
 > "She is considered by some as the Pioneer of modern Anxiety treatment via Cognitive Therapy. She continues to be noted for her books on dealing with anxiety disorders. Many of today's anxiety self-help books continue to cite her work."-- From Wikipedia
---------------------
-
 - [Pass through Panic](https://youtu.be/H1Bhh4Bh7vQ)
 - [An encouraging talk before bed](https://youtu.be/H1Bhh4Bh7vQ)
 - [Hope and Help](https://youtu.be/9brXNbcLOaY)
