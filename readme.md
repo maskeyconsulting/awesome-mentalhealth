@@ -53,7 +53,7 @@
 	- [Meditation on Compassion](https://youtu.be/04OWroNTf1c) 
 
 - Other meditation videos
-	- [Isha Kriya](https://www.youtube.com/watch?v=EwQkfoKxRvo) I try to do this once everyday and this has helped me tremendously.
+	- [Isha Kriya](https://www.youtube.com/watch?v=EwQkfoKxRvo) 
 	- [Vipassana](https://youtu.be/eajwl0Y-8JY)
 	- [Transcedental Meditation](https://youtu.be/rNfenCYWGRQ) 
 	- [15-Minute Anxiety Meditation](https://www.amazon.com/gp/video/detail/B0861BVHFX/ref=atv_dp_share_cu_r)
