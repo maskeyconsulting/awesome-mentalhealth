@@ -82,6 +82,12 @@
 - [An encouraging talk before bed](https://youtu.be/H1Bhh4Bh7vQ)
 - [Hope and Help](https://youtu.be/9brXNbcLOaY)
 
+## Marcus Aurelius 
+- [Meditation audiobook](https://youtu.be/d5E2AQKuCyU)
+- [Meditation summary](https://youtu.be/Hu0xDtK3g3Q)
+- [Stoic ideals](https://youtu.be/Auuk1y4DRgk)
+
+
 ## Yoga -
 - [Lengthen and Strengthen](https://www.doyogawithme.com/content/strengthen-and-lengthen) -- Easy 30 minute yoga.
 - [Rise and Shine](https://www.doyogawithme.com/content/rise-and-shine) -- Advanced and fast paced 30 minute yoga video
